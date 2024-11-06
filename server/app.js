@@ -28,7 +28,7 @@ connectDB();
 
 //default route
 app.get("/", (req, res) => {
-  res.send("<center><h1>Welcome to DDD University</h1></center>");
+  res.send("<center><h1>Welcome to xxx University</h1></center>");
 });
 
 //routes
